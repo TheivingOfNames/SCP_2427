@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2243632792
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: rat_assets
+      Dependencies: {}
+    Info_1:
+      Name: 2427_assets
+      Dependencies: {}

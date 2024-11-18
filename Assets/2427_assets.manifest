@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 695165059
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ac3dbfec686775a794adeee7d69b26e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9ea18fd6f2f7bb99657200e806473de5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4ac3dbfec686775a794adeee7d69b26e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 145956632, guid: aead0c42ecb6e2e41a3ade86ce3571ae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ModAssets/SCP2427-5/Cube.prefab
+Dependencies: []
